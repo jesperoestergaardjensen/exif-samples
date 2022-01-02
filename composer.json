@@ -1,0 +1,4 @@
+{
+    "name": "jesperoestergaardjensen/exif-samples",
+    "description": "Fork of https://github.com/ianare/exif-samples to allow usage in php project with composer"
+}
